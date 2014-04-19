@@ -20,4 +20,5 @@ User stories:
 * User is able to vote on links.
 * At this point links are only prioritized by votes without time since posting taken into consideration.
 * The vote count of the post is incremented up and down with vote buttons and AJAX is used to update the DOM.
+* The comment class is polymorphic so user can comment on a link or a comment.
 
